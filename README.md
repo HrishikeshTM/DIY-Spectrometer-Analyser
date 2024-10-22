@@ -1,3 +1,5 @@
+# DOWNLOAD analyser2.py to run the proper app. analyser.py is the original script
+
 # DIY Spectrometer Analyser
 Spectrometer Analyser app using python and opencv developed for a low-cost, scratch-built spectrometer.
 
@@ -21,7 +23,6 @@ To install the Spectrometer Analyser app, install the required librarires and cl
 ```
 pip install opencv-python
 pip install matplotlib
-git clone https://github.com/kousheekc/DIY-Spectrometer-Analyser.git
 ```
 
 ## Usage
